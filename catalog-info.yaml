@@ -1,0 +1,16 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: read-pkg
+  description: reading version from package.json
+  annotations:
+    github.com/project-slug: MapColonies/read-pkg
+  tags: 
+    - nodejs
+    - typescript
+    
+spec:
+  type: library
+  lifecycle: production
+  owner: DevInfra
+  system: npm-packages
