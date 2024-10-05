@@ -1,4 +1,4 @@
-import * as fs from 'fs';
+import fs from 'fs';
 import { readPackageJsonSync } from '../../src';
 
 describe('#readPackageJsonSync', function () {

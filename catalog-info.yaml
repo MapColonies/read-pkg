@@ -5,10 +5,10 @@ metadata:
   description: reading version from package.json
   annotations:
     github.com/project-slug: MapColonies/read-pkg
-  tags: 
+  tags:
     - nodejs
     - typescript
-    
+
 spec:
   type: library
   lifecycle: production
