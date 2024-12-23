@@ -1,7 +1,7 @@
 {
   "name": "@map-colonies/read-pkg",
   "version": "0.0.1",
-  "description": "This is template for map colonies typescript packages",
+  "description": "This is a helper for reading and parsing package json files",
   "main": "./dist/index.js",
   "exports": {
     ".": {
