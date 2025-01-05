@@ -23,7 +23,8 @@
     "start": "npm run build && cd dist && node ./index.js",
     "clean": "rimraf dist",
     "prepublish": "npm run build",
-    "prepare": "husky"
+    "prepare": "husky",
+    "docs": "typedoc src/index.ts"
   },
   "repository": {
     "type": "git",
@@ -59,9 +60,9 @@
     "prettier": "^3.3.3",
     "pretty-quick": "^4.0.0",
     "ts-jest": "^29.2.5",
-    "typedoc": "^0.27.5",
     "typescript": "^5.6.2",
-    "@map-colonies/tsconfig": "^1.0.0"
+    "@map-colonies/tsconfig": "^1.0.0",
+    "typedoc": "^0.27.5"
   },
   "dependencies": {
     "type-fest": "^4.26.1"
