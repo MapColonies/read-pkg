@@ -66,6 +66,6 @@
     "@swc/jest": "^0.2.36"
   },
   "dependencies": {
-    "type-fest": "^4.26.1"
+    "type-fest": "^4.31.0"
   }
 }
