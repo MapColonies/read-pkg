@@ -53,7 +53,7 @@
     "@map-colonies/prettier-config": "^0.0.1",
     "@types/jest": "^29.5.13",
     "@types/node": "^22.7.4",
-    "commitlint": "^19.5.0",
+    "commitlint": "^19.6.1",
     "eslint": "^8.17.0",
     "husky": "^9.1.6",
     "jest": "^29.7.0",
