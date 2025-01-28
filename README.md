@@ -11,7 +11,7 @@ npm install @mapcolonies/read-pkg
 ## Usage
 
 ```typescript
-import { readPackageJsonSync } from '@mapcolonies/read-pkg';
+import { readPackageJsonSync } from '@map-colonies/read-pkg';
 
 // Read package.json from current directory
 const packageJson = readPackageJsonSync();
