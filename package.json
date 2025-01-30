@@ -51,7 +51,7 @@
     "@map-colonies/commitlint-config": "^1.1.0",
     "@map-colonies/eslint-config": "^4.0.0",
     "@map-colonies/prettier-config": "^0.0.1",
-    "@types/jest": "^29.5.13",
+    "@types/jest": "^29.5.14",
     "@types/node": "^22.7.4",
     "commitlint": "^19.5.0",
     "eslint": "^8.17.0",
