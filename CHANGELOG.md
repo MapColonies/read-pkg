@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.0.1](https://github.com/MapColonies/read-pkg/compare/v1.0.0...v1.0.1) (2025-03-13)
+
+
+### Dependency Updates
+
+* bump type-fest from 4.33.0 to 4.34.1 ([#33](https://github.com/MapColonies/read-pkg/issues/33)) ([8b47ad3](https://github.com/MapColonies/read-pkg/commit/8b47ad3068d59f4955d220046fa4c6e3a8020ce4))
+
 ## [1.0.0](https://github.com/MapColonies/read-pkg/compare/v0.0.1...v1.0.0) (2025-02-03)
 
 
