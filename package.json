@@ -46,7 +46,7 @@
   },
   "homepage": "https://github.com/MapColonies/read-pkg#readme",
   "devDependencies": {
-    "@commitlint/cli": "^19.7.1",
+    "@commitlint/cli": "^20.1.0",
     "@map-colonies/commitlint-config": "^1.1.0",
     "@map-colonies/eslint-config": "^6.0.0",
     "@map-colonies/infra-copilot-instructions": "^1.0.0",
